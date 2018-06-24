@@ -5,5 +5,5 @@ Click on the + icon, then in the command field in the dialog box that pops up, t
 `/PATH/TO/THE/SCRIPT/wifiToggle.sh`
 
 where /PATH/TO/THE/SCRIPT is the path to wherever the script has been downloaded (duh).
-Note: Do not use path with ~ for home, as that is not identified here. Use the full path (/home/username/...)
+Note: Do not use path with "~" (tilde) for home, as that is not identified here. Use the full path (/home/username/...)
 Assign a name and keyboard shortcut of your choice, and you're done.
